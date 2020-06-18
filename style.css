@@ -1,7 +1,7 @@
 h1{
 color: pink;
 font-size: 32px;
-background: grey;
+background: yellow;
 font-family:'Piedra', cursive;
   text-align: center;
   text-decoration: underline;
@@ -9,7 +9,7 @@ font-family:'Piedra', cursive;
 
 h2, h3, h4 {
 font-size: 20px;
-background: grey;
+background: yellow;
 font-family: arial;
 text-align: center;
 
@@ -21,13 +21,13 @@ font-size: 20px;
 }
 
 body {
-background: grey;
+background: yellow;
 font-family: arial;
 text-align: center;
 } 
 
 h1 {
-color: pink;
+color: purple;
 font-size: 32px;
 }
 
@@ -43,17 +43,17 @@ h6 {
  } 
 
 body {
-background: grey;
+background: purple;
 font-family:arial;
 text-align: center;
 }
 
 div{
-background: lightpink
+background: lightpurple
  }
 
 .line-transparent {
-  background: black;
+  background: white;
   width: 100%;
 }
 
@@ -107,7 +107,7 @@ line-transparent {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: pink;
+  background: purple;
 }
 
 .links {
@@ -117,7 +117,7 @@ line-transparent {
 
 .link {
   margin: 10px 30px;
-  color: #pink;
+  color: #purple;
 }
 
 .link:hover {
